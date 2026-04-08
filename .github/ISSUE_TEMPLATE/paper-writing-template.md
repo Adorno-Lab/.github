@@ -3,6 +3,7 @@ name: Paper writing template
 about: Writing, revising, or submitting a paper
 assignees: bvadorno
 type: Task
+description: Complete all forms
 
 ---
 
