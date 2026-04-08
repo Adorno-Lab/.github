@@ -3,7 +3,7 @@ name: Paper writing template
 about: Writing, revising, or submitting a paper
 title: 
 labels: ''
-assignees: ''
+assignees: '@anachristinaac, @me'
 
 ---
 
