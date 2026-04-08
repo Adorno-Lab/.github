@@ -1,7 +1,7 @@
 ---
 name: Paper writing template
 about: Writing, revising, or submitting a paper
-title: "[PAPER TITLE]"
+title: 
 labels: ''
 assignees: ''
 
