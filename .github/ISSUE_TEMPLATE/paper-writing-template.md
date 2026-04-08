@@ -7,9 +7,12 @@ type: Task
 ---
 
 # Target journal, conference, or symposium
-label: include the target journal, conference, or symposium. It can be changed later.
+```
+Include the target journal, conference, or symposium. It can be changed later.
+````
 
 ## Stage
+- [ ] Assign this task to all co-authors who have a GitHub account
 - [ ] Outline
 - [ ] Drafting
 - [ ] Revision
