@@ -6,9 +6,14 @@ type: Task
 
 ---
 
+body:
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+
 # Target journal, conference, or symposium
 ```
-Include the target journal, conference, or symposium. It can be changed later.
+value: Include the target journal, conference, or symposium. It can be changed later.
 ````
 
 ## Stage
