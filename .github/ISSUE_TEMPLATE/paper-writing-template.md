@@ -4,17 +4,27 @@ about: Writing, revising, or submitting a paper
 assignees: bvadorno
 type: Task
 description: Complete all forms
-body:
-- type: input
-  id: prevalence
-  attributes:
-    label: Bug prevalence
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
-  validations:
-    required: true
+
 ---
 
+
+---
+body:
+- type: textarea
+  id: repro
+  attributes:
+    label: Reproduction steps
+    description: "How do you trigger this bug? Please walk us through it step by step."
+    value: |
+      1.
+      2.
+      3.
+      ...
+    render: bash
+  validations:
+    required: true
+
+  ---
 
 
 # Target journal, conference, or symposium
