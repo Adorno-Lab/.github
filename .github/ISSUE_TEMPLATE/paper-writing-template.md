@@ -4,6 +4,14 @@ about: Writing, revising, or submitting a paper
 assignees: bvadorno
 type: Task
 description: Complete all forms
+body:
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
 
 ---
 
