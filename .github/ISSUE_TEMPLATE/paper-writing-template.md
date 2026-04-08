@@ -1,13 +1,12 @@
 ---
 name: Paper writing template
 about: Writing, revising, or submitting a paper
-title: 
-labels: ''
-assignees: "@me"
+assignees: bvadorno
 
 ---
 
-# Objective
+# Target journal, conference, or symposium
+label: include the target journal, conference, or symposium. It can be changed later.
 
 ## Stage
 - [ ] Outline
@@ -17,7 +16,7 @@ assignees: "@me"
 - [ ] Submission
 - [ ] Camera-ready
 
-## Sections affected
+
 
 ## Deadline
 
