@@ -32,6 +32,7 @@ description: Complete all forms
   - [ ] :three:•:one: Complete online forms and any necessary paperwork (e.g., cover letter for journals)
 - [ ] :four: Upon receipt of reviews, address them appropriately and amend the paper accordingly. For journal submissions, a response-to-reviewer letter must be drafted. Please use [this template](https://github.com/Adorno-Lab/useful-lyx-templates).
 - [ ] Iterate steps :two:•:three: to :four: for each new revision.
+- [ ] - [ ] :five: Submit final version.
 
 ### Link to the paper folder
 
