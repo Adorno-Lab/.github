@@ -1,9 +1,11 @@
 
 ---
-name: 📝 Paper Writing Task
+
+name: "Paper Writing Task"
 about: Writing, revising, or submitting a paper
 title: "[PAPER] "
 labels: paper
+
 ---
 
 ## Objective
