@@ -1,6 +1,6 @@
 ---
 name: Paper writing (revision) template
-about: Writing, revising, or submitting a paper
+about: Use this version when submitting a revised draft
 assignees: bvadorno
 type: Task
 description: Complete all forms
