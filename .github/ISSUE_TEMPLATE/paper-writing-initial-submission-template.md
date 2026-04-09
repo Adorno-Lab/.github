@@ -1,6 +1,6 @@
 ---
 name: Paper writing (initial submission) template
-about: Writing, revising, or submitting a paper
+about: Use this template when submitting the first draft
 assignees: bvadorno
 type: Task
 description: Complete all forms
