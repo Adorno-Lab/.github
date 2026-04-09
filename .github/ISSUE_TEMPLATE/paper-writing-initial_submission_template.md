@@ -1,5 +1,5 @@
 ---
-name: Paper writing template
+name: Paper writing (initial submission) template
 about: Writing, revising, or submitting a paper
 assignees: bvadorno
 type: Task
@@ -8,11 +8,15 @@ description: Complete all forms
 ---
 
 ### Target journal, conference, or symposium
-> [!NOTE]
-> Include the target journal, conference, or symposium, including a link to their website.
+
+> Include the target journal, conference, or symposium below, along with a link to its website.
 
 ➡️ \<INCLUDE INFORMATION HERE\>
 
+
+### Link to the paper
+
+➡️ \<INCLUDE LINK HERE\>
 
 ### Stage 
 > [!TIP]
@@ -26,19 +30,17 @@ description: Complete all forms
 - [ ] :two: Writing (ensure you are familiar with [The Incomplete Guide to Academic Writing in Robotics Research](https://incompleteguides.github.io/))
   - [ ] :two:•:one: Define outline and ask for feedback, if necessary
   - [ ] :two:•:two: Define the list of authors and determine their role in the paper following the [CRediT framework](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement).
-  - [ ] :two:•:three: Draft paper
-  - [ ] :two:•:four: Create a task for @bvadorno and other co-authors so that they can revise the paper. This step might be very interactive.
+  - [ ] :two:•:three: Write paper
+  - [ ] :two:•:four: Create a subtask for @bvadorno and other co-authors so that they can revise the paper. This step might be very interactive.
 - [ ] :three: Submission
   - [ ] :three:•:one: Complete online forms and any necessary paperwork (e.g., cover letter for journals)
-- [ ] :four: Upon receipt of reviews, address them appropriately and amend the paper accordingly. For journal submissions, a response-to-reviewer letter must be drafted. Please use [this template](https://github.com/Adorno-Lab/useful-lyx-templates).
-- [ ] Iterate steps :two:•:three: to :four: for each new revision.
-- [ ] :five: Submit final version.
+  - [ ] :three:•:two: Submit paper 🥳
 
-### Link to the paper folder
 
-➡️ \<INCLUDE LINK HERE\>
+> [!IMPORTANT]
+> Upon receipt of reviews, address them appropriately and amend the paper accordingly. For journal submissions, a response-to-reviewer letter must be drafted. Please use [this template](https://github.com/Adorno-Lab/useful-lyx-templates).
+> Iterate steps :two:•:three: to :three:•:two: for each new revision. **Create a subtask accordingly** so that we can track each revision appropriately.
 
 ### Additional information
-> [!NOTE]
 > Include any information that might be relevant to this paper, such as data repositories and links to the implementation used to generate the results.
 
